@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Belt Exam Two</string>
+    <string name="sure_to_delete">Are you sure you want to delete item?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="not_saved">User Record not saved</string>
+    <string name="added_successfully">User added successfully</string>
+    <string name="enter_required">Please enter required field</string>
+    <string name="update_failed">Update Failed</string>
+    <string name="record_unchanged">User record unchanged</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="view">View</string>
+    <string name="update">Update</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_name">Please enter first name</string>
+    <string name="my_sqlite_app">My SQLite App</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="delete_success">Record Deleted Successfully</string>
+
+    <string name="please_enter_last_name">Please enter last name</string>
+    <string name="please_enter_city">Please enter city</string>
+    <string name="please_enter_state">Please enter state</string>
+    <string name="data_fetch_success">Nice!, data retrieved successfully</string>
+    <string name="data_fetch_failed">Something went wrong, please try again</string>
+    <string name="return_home">Return Home</string>
+</resources>
